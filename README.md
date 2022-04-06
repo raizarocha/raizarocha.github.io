@@ -1,3 +1,3 @@
 raizarocha.github.io
 
-Projeto de portfólio, como forma de exercício do Bloco 3 - HTML & CSS - Estruturas de página;
+Projeto de portfólio realizado no Bloco 3, para exercitar --> HTML & CSS - Estruturas de página;
